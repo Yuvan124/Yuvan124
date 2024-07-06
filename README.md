@@ -9,7 +9,7 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-  I'm a web developer with a deep passion for creating dynamic and engaging web experiences. My journey in web development started with a curiosity for how websites work, and it quickly turned into a love for coding and designing intuitive user interfaces.
+ To launch my career by utilizing my foundational skills and knowledge, I aim to contribute to impactful projects and collaborate with a dynamic team. I am eager to learn new technologies, grow professionally, and make meaningful contributions to the organization.
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
