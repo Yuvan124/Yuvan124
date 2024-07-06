@@ -10,6 +10,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63863998/132100831-0318998a-c26a-4b6c-b5ab-fb92df51e63a.gif" alt="Coding" width="400"/>
+</p>
+
+<h2 align="left">About Me:</h2>
+<p align="left">
+  I'm a web developer with a deep passion for creating dynamic and engaging web experiences. My journey in web development started with a curiosity for how websites work, and it quickly turned into a love for coding and designing intuitive user interfaces.
+</p>
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -48,4 +57,18 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+</p>
+
+<h2 align="left">Connect with Me:</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/yuvan-p" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/yuvan_p" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63863998/132100831-0318998a-c26a-4b6c-b5ab-fb92df51e63a.gif" alt="Coding" width="400"/>
 </p>
