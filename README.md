@@ -57,7 +57,7 @@
   <a href="https://linkedin.com/in/yuvan-p" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/yuvan_p" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvan-p-048049226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
