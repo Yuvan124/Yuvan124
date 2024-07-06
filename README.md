@@ -2,7 +2,16 @@
 <h3 align="center">A Passionate Web Developer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63863998/132100831-0318998a-c26a-4b6c-b5ab-fb92df51e63a.gif" alt="Coding" width="400"/>
+  <a href="https://linkedin.com/in/yuvan-p" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/yuvan_p" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400"/>
 </p>
 
 <h2 align="left">About Me:</h2>
@@ -61,5 +70,5 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63863998/132100831-0318998a-c26a-4b6c-b5ab-fb92df51e63a.gif" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400"/>
 </p>
