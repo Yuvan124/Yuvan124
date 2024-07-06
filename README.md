@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvan</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yuvan-p" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/yuvan_p" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400"/>
@@ -69,6 +62,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400"/>
-</p>
+
